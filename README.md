@@ -1,2 +1,2 @@
 # MiniEmailApplication
-a small Email Application for a german gmx-email-account
+a small Java Email Application for a german gmx-email-account
